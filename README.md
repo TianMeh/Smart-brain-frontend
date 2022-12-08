@@ -1,1 +1,1 @@
-Frontend code projekta
+Frontend project code
